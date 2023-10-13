@@ -12,7 +12,7 @@ How to Contribute
 To make Contribution :
 Fork this repository to your GitHub account.
 Clone the forked repository to your local machine:
-   git clone https://github.com/hackbysarthak03/Hacktoberfest2023.git
+   git clone https://github.com/noway-code123/noway-code123.git
 Create a new branch for your contribution:
 git checkout -b feature/your-feature-name
 Make your changes ( See below Section on What to Contribute? )
